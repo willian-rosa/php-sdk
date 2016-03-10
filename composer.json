@@ -4,7 +4,7 @@
     "keywords": ["mercadolibre","mercadolivre"],
     "autoload": {
         "psr-0": { 
-        	"MercadoLivre\\": ""
+        	"Meli\\": ""
         }
     }
 }
