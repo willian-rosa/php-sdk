@@ -1,5 +1,7 @@
 <?php
 
+namespace MercadoLivre;
+
 class Meli {
 
 	/**

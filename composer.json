@@ -1,0 +1,10 @@
+{
+    "name": "willian-rosa/php-sdk",
+    "description": "SDK PHP do Mercado Livre.",
+    "keywords": ["mercadolibre","mercadolivre"],
+    "autoload": {
+        "psr-0": { 
+        	"MercadoLivre\\": ""
+        }
+    }
+}
